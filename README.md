@@ -1,2 +1,4 @@
 # Agile-E-commerce-Website-Development-via-Scrum-Jira-
 In this project, I implemented the Scrum framework to oversee the development of a comprehensive e-commerce website. The focus was on defining key roles such as Product Owner, Scrum Master, and Development Team members, ensuring clear responsibilities and communication. I organized various Scrum activities, including product backlog creation, sprint planning, daily stand-ups, and sprint reviews. Progress was meticulously tracked through Jira, which enhanced collaboration among team members and ensured iterative progress toward project milestones. The project emphasized adaptability and continuous improvement, resulting in a user-friendly and efficient e-commerce platform.
+
+https://sakshishinde209.atlassian.net/jira/software/projects/ECWD/boards/2
